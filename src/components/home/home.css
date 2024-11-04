@@ -1,0 +1,13 @@
+.home{
+    position: relative;
+    min-height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header{
+    grid-template-columns: 2fr 9fr;
+    column-gap: 1.875rem;
+    font-size: 1.75rem;
+}
