@@ -13,31 +13,31 @@ const Sidebar = () => {
               <div className="nav__menu">
                   <ul className="nav__list">
                       <li className="nav__item">
-                          <a href="#home" className="nav__link">
+                          <div className="nav__link">
                               <i className='icon-home'>
                                 <div className="icon_text">
-                                    <Link to="/">home</Link>
+                                    <Link to="/" className="page__links">home</Link>
                                 </div>
                               </i>
-                          </a>
+                          </div>
                       </li>
 
                       <li className="nav__item">
-                          <a href="" className="nav__link">
+                          <div href="" className="nav__link">
                               <i className="icon-camrecorder">
                                 <div className="icon_text">
-                                <Link to="/video">video</Link>
+                                <Link to="/video" className="page__links">video</Link>
                                 </div>
                               </i>
-                          </a>
+                          </div>
                       </li>
 
                       <li className="nav__item">
-                          <a href="" className="nav__link">
+                          <div href="" className="nav__link">
                               <i className="icon-bubble">
                                 <div className="icon_text">Contact</div>
                               </i>
-                          </a>
+                          </div>
                       </li>
                   </ul>
               </div>
