@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/summertime-volleyball/static/css/main.62aaf6ce.css",
-    "main.js": "/summertime-volleyball/static/js/main.19dcd674.js",
+    "main.js": "/summertime-volleyball/static/js/main.e964ad00.js",
     "static/js/453.0a8da4b4.chunk.js": "/summertime-volleyball/static/js/453.0a8da4b4.chunk.js",
     "static/media/Summertime White Element.png": "/summertime-volleyball/static/media/Summertime White Element.b214dbad9c61a0355409.png",
     "static/media/cropped_image.png": "/summertime-volleyball/static/media/cropped_image.1797b7858886b32ae37d.png",
     "static/media/Its Summertime White.png": "/summertime-volleyball/static/media/Its Summertime White.7daa269329c4c8dcbe41.png",
     "index.html": "/summertime-volleyball/index.html",
     "main.62aaf6ce.css.map": "/summertime-volleyball/static/css/main.62aaf6ce.css.map",
-    "main.19dcd674.js.map": "/summertime-volleyball/static/js/main.19dcd674.js.map",
+    "main.e964ad00.js.map": "/summertime-volleyball/static/js/main.e964ad00.js.map",
     "453.0a8da4b4.chunk.js.map": "/summertime-volleyball/static/js/453.0a8da4b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62aaf6ce.css",
-    "static/js/main.19dcd674.js"
+    "static/js/main.e964ad00.js"
   ]
 }
