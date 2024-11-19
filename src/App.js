@@ -8,7 +8,7 @@ import './App.css';
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/summertime-volleyball">
         <Routes>
         <Route path="/" element={<Home/>}/>
           <Route path="/Video" element={<Video/>}/>
