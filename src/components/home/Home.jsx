@@ -1,13 +1,16 @@
 import React from 'react'
 import "./home.css";
-import logo from '../../assets/logo.svg'
+import logo from '../../assets/cropped_image.png'
 
 const Home = () => {
   return (
-    <section className="home container section">
-      <img src={logo} width={250} height={250} alt="" />
 
+    <div>
+      <section className="home container section">
+      <img src={logo} width={200} height={200} alt="" className='homeimg'/>
       <div className="header__container grid">
+      <div>
+      </div>
       <h1 className="header">Summer McGee</h1> 
         <div className="header2">
           <div className="info">
@@ -17,7 +20,8 @@ const Home = () => {
           </div>
         </div>
       </div>
-    </section>
+      </section>
+    </div>
   )
 }
 

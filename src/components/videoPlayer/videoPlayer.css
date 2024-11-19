@@ -1,0 +1,61 @@
+.videoFrame {
+    text-align: center;
+    margin: 20px;
+}
+
+.mainVideo iframe {
+    width: 800px;
+    height: 450px;
+    margin-bottom: 20px;
+}
+
+.filter {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.filter select {
+    padding: 5px 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.work__container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 columns */
+    gap: 20px;
+    justify-items: center;
+    margin-top: 20px;
+}
+
+.work__card {
+    position: relative;
+    width: 100%;
+    max-width: 300px;
+    cursor: pointer;
+    overflow: hidden;
+    text-align: center;
+}
+
+.work__thumbnail {
+    position: relative;
+}
+
+.work__img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+}
+
+.work__img:hover {
+    transform: scale(1.1);
+}
+  
+.banner{
+    padding-bottom: 20px;
+}
+
+  

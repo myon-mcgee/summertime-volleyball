@@ -22,7 +22,7 @@
 
 .nav__link{
     font-size: 1.05rem;
-    color: hsl(257, 8%, 84%);
+    color: hsl(0, 0%, 100%);
     font-weight: var(--font-bold);
 }
 
@@ -39,7 +39,7 @@
 
 .page__links{
     font-size: 1.05rem;
-    color: hsl(257, 8%, 84%);
+    color: hsl(0, 0%, 100%);
     font-weight: var(--font-bold);
     transition: .4s;
 }
@@ -47,6 +47,7 @@
 .page__links:hover{
     color: hsl(271, 86%, 69%);
 }
+
 /*
 .nav__toggle{
     position: fixed;
