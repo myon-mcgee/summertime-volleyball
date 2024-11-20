@@ -14,9 +14,11 @@ const Home = () => {
       <h1 className="header">Summer McGee</h1> 
         <div className="header2">
           <div className="info">
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing eli. 
-            Aenean commodo ligula eget dolor. Aenean massa. Cum sociis 
-            natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+            <p>
+            DS/Liberio <br/>
+            Olive-Harvey Community College Transfer<br/>
+            Class of 2027 3.7GPA
+            </p>
           </div>
         </div>
       </div>
